@@ -95,6 +95,10 @@ img[src$='#badge'] {
   display: inline-block;
 }
 
+img[src$="#circle"] {
+  border-radius: 50%;
+}
+
 p {
   margin-bottom: 20px;
 }

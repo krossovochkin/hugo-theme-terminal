@@ -91,6 +91,10 @@ img + em {
   margin-right: auto;
 }
 
+img[src$='#badge'] {
+  display: inline-block;
+}
+
 p {
   margin-bottom: 20px;
 }
